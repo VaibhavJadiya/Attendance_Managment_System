@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918274823993",
+    "firebase_url": "https://fir-data-insertion.firebaseio.com",
+    "project_id": "fir-data-insertion",
+    "storage_bucket": "fir-data-insertion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918274823993:android:a1e7cc8639858224873ae8",
+        "android_client_info": {
+          "package_name": "com.vk.creations.firebase_data_insertion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918274823993-jmtcu8g1os598oo0c96snqpvd47ihmvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GYAsl1yvRczD93vOn-22O7Pk10NBWM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918274823993-jmtcu8g1os598oo0c96snqpvd47ihmvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="error">
+        <item name="stColorBackground">#FFFFC107</item>
+        <item name="stTextColor">#000000</item>
+        <item name="stIconStart">@drawable/ic_error</item>
+    </style>
+    <style name="success">
+        <item name="stColorBackground">#FFFFC107</item>
+        <item name="stTextColor">#000000</item>
+        <item name="stIconStart">@drawable/ic_checked</item>
+    </style>
+
+</resources>
